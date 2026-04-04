@@ -10,7 +10,7 @@
 
 ### 👤 $ whoami
 
-<p>Desenvolvedor focado em <b>Backend</b>, entusiasta de <b>Segurança Ofensiva</b> e usuário fiel de <b>Linux</b>. Atualmente cursando o último semestre de ADS no <b>IFCE - Campus Boa Viagem</b>.</p>
+<p>Desenvolvedor focado em <b>Backend</b> e entusiasta de <b>Segurança Ofensiva</b>. Atualmente cursando o último semestre de ADS no <b>IFCE - Campus Boa Viagem</b>.</p>
 
 * 🌱 **Learning:** Arquitetura de software, APIs complexas e hardening de sistemas.
 * 🛡️ **Interests:** Desenvolvimento, Infraestrutura, Cybersecurity e Hardware.
@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,ts,py,bash,docker,git,github,linux,postgres&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,ts,py,bash,docker,git,github,c,linux,postgres&theme=dark" />
   </a>
 </p>
 
