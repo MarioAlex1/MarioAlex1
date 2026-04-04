@@ -33,7 +33,7 @@ Desenvolvedor focado em **Backend**, entusiasta de **Segurança Ofensiva** e usu
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mário-alex-barbosa-pereira-7402732bb)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alexxbarbosa662@gmail.com.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mário-alex-barbosa-pereira-7402732bb)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mario.alex@exemplo.com)
 
 `Last system update: 2026-04-03`
