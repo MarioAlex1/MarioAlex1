@@ -1,36 +1,57 @@
-<h1 align="center">0x4D4152494F (Mário Alex) 👋</h1>
-<p align="center"><code>sudo apt install solutions --no-install-recommends</code></p>
+<div align="center">
+
+# 0x4D4152494F (Mário Alex) 👋
+
+<p><code>sudo apt install solutions --no-install-recommends</code></p>
+
+</div>
 
 ---
 
 ### 👤 $ whoami
-Desenvolvedor focado em **Backend**, entusiasta de **Segurança Ofensiva** e usuário fiel de **Linux**. Atualmente cursando o último semestre de ADS no **IFCE - Campus Boa Viagem**.
+
+<p>Desenvolvedor focado em <b>Backend</b>, entusiasta de <b>Segurança Ofensiva</b> e usuário fiel de <b>Linux</b>. Atualmente cursando o último semestre de ADS no <b>IFCE - Campus Boa Viagem</b>.</p>
 
 * 🌱 **Learning:** Arquitetura de software, APIs complexas e hardening de sistemas.
-* 🛡️ **Interests:** Desenvolvimento, Infraestrutura, Cybersecurity, e Hardware.
+* 🛡️ **Interests:** Desenvolvimento, Infraestrutura, Cybersecurity e Hardware.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
-| **Infra & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| **Testing & Dev** | ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,ts,py,bash,docker,git,github,linux,insomnia,mysql,postgres,mongodb&theme=dark" />
+  </a>
+</p>
 
 ---
 
 ### 📊 GitHub Analysis
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MarioAlex1&show_icons=true&theme=dracula&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioAlex1&layout=compact&theme=dracula" />
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarioAlex1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioAlex1&layout=compact&theme=dracula"/>
 </p>
 
 ---
 
 ### 📫 Contact & Networking
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m%C3%A1rio-alex-barbosa-pereira-7402732bb)
 
-<br />
+<p align="center">
+  Me encontre nas redes sociais ou confira meus repositórios!
+</p>
 
-`Last system update: 2026-04-04`
+<p align="center">
+  <a href="https://linkedin.com/in/m%C3%A1rio-alex-barbosa-pereira-7402732bb" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="mailto:seu-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
+
+<p align="center">
+  <code>Last system update: 2026-04-04</code>
+</p>
