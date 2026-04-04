@@ -6,8 +6,8 @@
 ### 👤 $ whoami
 Desenvolvedor focado em **Backend**, entusiasta de **Segurança Ofensiva** e usuário fiel de **Linux**. Atualmente cursando o último semestre de ADS no **IFCE - Campus Boa Viagem**.
 
-* 🌱 **Learning:** Arquitetura de microsserviços, APIs complexas e hardening de sistemas.
-* 🛡️ **Interests:** Infraestrutura, Cybersecurity, Automação e Hardware (Raspberry Pi).
+* 🌱 **Learning:** Arquitetura de software, APIs complexas e hardening de sistemas.
+* 🛡️ **Interests:** Desenvolvimento, Infraestrutura, Cybersecurity, e Hardware.
 
 ---
 
