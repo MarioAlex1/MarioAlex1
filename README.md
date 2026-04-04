@@ -13,20 +13,15 @@ Desenvolvedor focado em **Backend**, entusiasta de **Segurança Ofensiva** e usu
 
 ### 💻 Stack & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,py,bash,docker,git,github,linux&theme=dark" />
 </p>
 
 <hr />
 
 ### 📊 GitHub Activity
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MarioAlex1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioAlex1&layout=compact&theme=dracula" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MarioAlex1&show_icons=true&theme=dracula&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioAlex1&layout=compact&theme=dracula" />
 </p>
 
 <hr />
