@@ -30,10 +30,7 @@
 ### 📊 GitHub Analysis
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarioAlex1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="170" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioAlex1&layout=compact&theme=dracula&hide_border=true" height="170" />
+  <img src="https://metrics.lecoq.io/MarioAlex1?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=America%2FFortaleza" alt="GitHub Metrics" width="100%">
 </p>
 
 ---
