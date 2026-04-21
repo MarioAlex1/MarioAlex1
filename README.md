@@ -19,20 +19,20 @@
 
 ### 🚀 Featured Projects
 
-#### 🥛 Sistema de Gestão para Cadeia Produtiva (Private/Proprietary)
+#### 🥛 Sistema de Gestão para Cadeia Produtiva (In Progress | Private)
 * **Stack:** Python & Django.
-* **Contexto:** API complexa desenvolvida para automação e controle de processos no setor agroindustrial.
-* **Destaque:** Arquitetura modular robusta focada em regras de negócio críticas e alta integridade de dados.
+* **Contexto:** API complexa desenvolvida em colaboração para automação e controle no setor agroindustrial.
+* **Destaque:** Participação no desenvolvimento da arquitetura modular e lógica de backend para processos críticos de negócio.
 
 #### 🏋️ Plataforma de Integração Fitness (Private/Proprietary)
 * **Stack:** Node.js, TypeScript & WebSockets.
 * **Contexto:** Ecossistema escalável para comunicação e gestão de treinos entre profissionais e alunos.
-* **Destaque:** Implementação de Sockets para atualizações em tempo real e entrega de software focado no cliente final.
+* **Destaque:** Implementação completa de Sockets para atualizações em tempo real e entrega de software focado no cliente final.
 
 #### ✂️ Sistema de Agendamento e Gestão de Serviços (In Progress)
 * **Stack:** Python & Django.
-* **Contexto:** API desenvolvida para automatizar reservas e fluxos de trabalho em estabelecimentos comerciais.
-* **Destaque:** Configuração de ambiente isolado, pipelines de CI/CD e cobertura de testes automatizados com **Pytest**.
+* **Contexto:** API desenvolvida em dupla para automatizar reservas e fluxos de trabalho.
+* **Destaque:** Responsável por toda a configuração inicial de ambiente, arquitetura, pipelines de CI/CD e testes com **Pytest**.
 
 #### 📺 App de Catálogo de Mídia Mobile (Academic)
 * **Stack:** React Native & Firebase.
