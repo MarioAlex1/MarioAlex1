@@ -12,8 +12,31 @@
 
 <p>Desenvolvedor focado em <b>Backend</b> e entusiasta de <b>Segurança Ofensiva</b>. Atualmente cursando o último semestre de ADS no <b>IFCE - Campus Boa Viagem</b>.</p>
 
-* 🌱 **Learning:** Arquitetura de software, APIs complexas e hardening de sistemas.
-* 🛡️ **Interests:** Desenvolvimento, Infraestrutura, Cybersecurity e Hardware.
+* 🌱 **Learning:** Arquitetura de software (Modular/Clean), APIs complexas e hardening de sistemas.
+* 🛡️ **Interests:** Desenvolvimento Backend, Infraestrutura, Cybersecurity e Hardware.
+
+---
+
+### 🚀 Featured Projects
+
+#### 🥛 Sistema de Gestão para Cadeia Produtiva (Private/Proprietary)
+* **Stack:** Python & Django.
+* **Contexto:** API complexa desenvolvida para automação e controle de processos no setor agroindustrial.
+* **Destaque:** Arquitetura modular robusta focada em regras de negócio críticas e alta integridade de dados.
+
+#### 🏋️ Plataforma de Integração Fitness (Private/Proprietary)
+* **Stack:** Node.js, TypeScript & WebSockets.
+* **Contexto:** Ecossistema escalável para comunicação e gestão de treinos entre profissionais e alunos.
+* **Destaque:** Implementação de Sockets para atualizações em tempo real e entrega de software focado no cliente final.
+
+#### ✂️ Sistema de Agendamento e Gestão de Serviços (In Progress)
+* **Stack:** Python & Django.
+* **Contexto:** API desenvolvida para automatizar reservas e fluxos de trabalho em estabelecimentos comerciais.
+* **Destaque:** Configuração de ambiente isolado, pipelines de CI/CD e cobertura de testes automatizados com **Pytest**.
+
+#### 📺 App de Catálogo de Mídia Mobile (Academic)
+* **Stack:** React Native & Firebase.
+* **Contexto:** Aplicativo mobile para listagem e simulação de streaming de nicho.
 
 ---
 
@@ -21,9 +44,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,ts,py,bash,docker,git,github,c,linux,postgres,reactnative&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,ts,py,django,java,maven,bash,docker,linux,postgres,react,firebase,shell,git,github&theme=dark" />
   </a>
 </p>
+
+> **Core Skills:** Desenvolvimento de APIs RESTful, Arquitetura de Sistemas, Testes (Pytest/JUnit), Deploy em Nuvem (Render) e CI/CD.
 
 ---
 
@@ -51,11 +76,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;
-  <a href="mailto:seu-email@gmail.com" target="_blank">
+  <a href="mailto:marioalex099@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
-<p align="center">
-  <code>Last system update: 2026-04-04</code>
-</p>
+<div align="center">
+  <code>Last system update: 2026-04-21</code>
+</div>
