@@ -40,15 +40,35 @@
 
 ---
 
+### 💻 Hard Skills
+* **Backend:** Desenvolvimento de APIs robustas com Python (Django) e Node.js (Express/TypeScript). Estudo contínuo em ecossistema **Java**, utilizando **Maven** para gerenciamento de dependências.
+* **Modelagem & Análise:** Forte domínio em modelagem de sistemas, DER, UML e diagramação de classes (Analista).
+* **Segurança:** Mentalidade *Security-by-Design*, implementação de Hash (Argon2), proteção de dados e interesse em segurança ofensiva.
+* **Qualidade de Código:** Escrita de testes unitários e de integração utilizando **Pytest** (Python) e **JUnit** (Java).
+* **Lógica & Low-level:** Sólida base em lógica de programação e estruturas de dados. Conhecimentos em C/C++ (Structs, Modularização, Threads e Processos).
+* **Infra & DevOps:** Experiência com ambiente Linux (Ubuntu/Terminal), Docker, pipelines de CI/CD, configuração de ambiente e Render.
+* **Database:** Modelagem e manipulação de bancos relacionais (PostgreSQL) e integração com Firebase.
+
+---
+
+### 🧠 Soft Skills & Mindset
+* **Mentalidade de Aprendizado & Curiosidade:** Foco em entender o "porquê" das tecnologias e busca constante pela melhor abordagem técnica.
+* **Pensamento Estruturado:** Organização de código orientada à modularidade e escalabilidade (Herança vs Composição).
+* **Pragmatismo Técnico:** Foco em resultados reais, garantindo que o software seja funcional e entregue ao cliente.
+* **Visão Sistêmica:** Abordagem 360º que integra desenvolvimento, infraestrutura e segurança (Hardening).
+* **Resolução de Problemas:** Experiência prática enfrentando desafios de infraestrutura Linux e decisões de arquitetura.
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,ts,py,django,java,maven,bash,docker,linux,postgres,react,firebase,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,ts,py,django,java,maven,c,cpp,bash,docker,linux,postgres,react,firebase,git,github&theme=dark" />
   </a>
 </p>
 
-> **Core Skills:** Desenvolvimento de APIs RESTful, Arquitetura de Sistemas, Testes (Pytest/JUnit), Deploy em Nuvem (Render) e CI/CD.
+> **Core Competencies:** APIs RESTful, WebSockets, Testes Automatizados (Pytest/JUnit), Maven, Modelagem de Sistemas e Linux Hardening.
 
 ---
 
@@ -82,5 +102,5 @@
 </p>
 
 <div align="center">
-  <code>Last system update: 2026-04-21</code>
+  <code>Last system update: 2026-04-22</code>
 </div>
