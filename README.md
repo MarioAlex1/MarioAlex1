@@ -13,7 +13,7 @@
 <p>Desenvolvedor focado em <b>Backend</b> e entusiasta de <b>Segurança Ofensiva</b>. Atualmente cursando o último semestre de ADS no <b>IFCE - Campus Boa Viagem</b>.</p>
 
 * 🌱 **Learning:** Arquitetura de software (Modular/Clean), APIs complexas e hardening de sistemas.
-* 🛡️ **Interests:** Desenvolvimento Backend, Infraestrutura, Cybersecurity e Hardware.
+* 🛡️ **Interests:** Desenvolvimento Backend, Infraestrutura e Cybersecurity.
 
 ---
 
@@ -64,7 +64,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,ts,py,django,java,maven,c,cpp,bash,docker,linux,postgres,react,firebase,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,ts,py,django,java,maven,c,cpp,bash,docker,linux,postgres,git,github&theme=dark" />
   </a>
 </p>
 
