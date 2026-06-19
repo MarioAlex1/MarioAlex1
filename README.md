@@ -25,7 +25,14 @@ $ cat profile.json
   "name": "Mário Alex",
   "focus": ["Backend Web Development", "Offensive Security", "Infrastructure"],
   "education": "ADS (Last Semester) @ IFCE - Campus Boa Viagem",
-  "skills": ["NestJS", "TDD", "Cypress", "System Architecture", "Webhooks (Discord)"],
+  "languages_frameworks": ["TypeScript", "Java", "Python", "Django", "NestJS"],
+  "skills": ["Arquitetura Modular", "MVC em Camadas", "Virtual Machines", "CLI (Command Line)", "TDD", "Cypress", "Webhooks"],
+  "tech_pool": {
+    "databases": ["PostgreSQL", "Redis", "Firebase"],
+    "orms_query": ["Prisma", "TypeORM", "Django ORM"],
+    "security": ["JWT", "Google OAuth", "BCrypt", "Argon2"],
+    "devops_infra": ["Docker", "Virtual Machines", "Nginx", "GitHub Actions"]
+  },
   "learning": [
     "Clean/Hexagonal Architecture",
     "Complex APIs & System Design",
@@ -40,11 +47,11 @@ $ cat profile.json
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,ts,nest,py,django,java,maven,bash,docker,linux,postgres,cypress,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,ts,nest,py,django,postgres,redis,prisma,bash,docker,nginx,githubactions,cypress,git,github,jira&theme=dark" />
   </a>
 </p>
 
-> **Core Competencies:** Desenvolvimento Web Backend | APIs RESTful & WebSockets | NestJS | TDD & Testes Automatizados (Cypress/Pytest/JUnit) | Arquiteturas (Clean/Hexagonal) | Infraestrutura & Linux Hardening | Webhooks (Discord)
+> **Core Competencies:** Desenvolvimento Web Backend | APIs RESTful & WebSockets | NestJS | TDD & Testes Automatizados (Cypress/Pytest/JUnit) | SOLID & Padrões Arquiteturais (Clean/Hexagonal) | Redis & Celery | Docker, Nginx & VMs | CLI & CI/CD (GitHub Actions) | Webhooks (Discord)
 
 ---
 
@@ -73,13 +80,13 @@ $ cat profile.json
 
 ### 💻 Technical Expertise (Hard Skills)
 
-* **Backend Web Development:** Desenvolvimento de APIs robustas e escaláveis utilizando `NestJS`, `Node.js` (`Express`/`TypeScript`) e `Python` (`Django`). Estudo e desenvolvimento contínuo em `Java` utilizando `Maven` para gerenciamento de dependências. Criação de fluxos de eventos dinâmicos e integrações de **Webhooks (ex: integração com Discord)**.
-* **Arquiteturas de Software:** Domínio teórico e prático de padrões arquiteturais modernos (Clean Architecture, Hexagonal Architecture, MVC, e Domain-Driven Design) para desenvolver sistemas altamente testáveis, modulares e desacoplados.
-* **Quality Assurance & TDD:** Forte cultura de qualidade com uso de **TDD (Test-Driven Development)**. Escrita de testes automatizados (unitários, integração e E2E) utilizando **`Cypress`**, `Pytest` e `JUnit`.
-* **DevOps & Infraestrutura:** Administração e provisionamento de **infraestrutura** local e em nuvem com foco em ambientes Linux (Debian/Ubuntu), bash scripting para automação, conteinerização (`Docker`), CI/CD pipelines e deploy de serviços.
-* **Modelagem & Análise:** Modelagem detalhada de sistemas, diagramas UML (casos de uso, classes) e Diagramas de Entidade-Relacionamento (DER).
-* **Database & Storage:** Modelagem, normalização e manipulação de bancos de dados relacionais (`PostgreSQL`) e não-relacionais/tempo-real (`Firebase`).
-* **Cybersecurity & Low-level:** Mentalidade *Security-by-Design*, proteção de dados com hash robusto (`Argon2`), hardening de sistemas Linux. Lógica estruturada em baixo nível com `C/C++` (estruturas, threads, processos e gerência de memória).
+* **Backend Web Development:** APIs robustas, performáticas e escaláveis utilizando os ecossistemas **`TypeScript`** (**`NestJS`** / Node.js), **`Python`** (**`Django`**) e **`Java`** (Maven). Integração de processamento assíncrono e tarefas em segundo plano com **`Celery`**, e comunicação em tempo real via **Websockets** e **Webhooks (Discord)**.
+* **Arquiteturas & Princípios:** Domínio prático de **Arquitetura Modular** e **Arquitetura MVC em Camadas**, além de padrões modernos como *Clean Architecture*, *Hexagonal Architecture* (Ports & Adapters) e *Domain-Driven Design (DDD)*. Forte adesão aos **princípios SOLID** e boas práticas de OOP para construir sistemas altamente modulares, sustentáveis e testáveis.
+* **Database & Cache:** Modelagem de bancos de dados relacionais (**`PostgreSQL`**), cache e armazenamento de dados em memória de alta performance com **`Redis`**, e integração com **`Firebase`**. Uso proficiente de ORMs como **`Prisma ORM`**, **`TypeORM`** e **`Django ORM`**.
+* **Quality Assurance & TDD:** Desenvolvimento orientado a testes com foco prático em **TDD (Test-Driven Development)**. Escrita de testes unitários, integração e testes de ponta a ponta (E2E) utilizando **`Cypress`**, `Pytest` e `JUnit`.
+* **DevOps & Infraestrutura:** Criação e gerenciamento de ambientes consistentes e isolados via **`Docker`** e **`Docker Compose`**, além do provisionamento e gerenciamento de **Máquinas Virtuais (VMs)**. Administração avançada de sistemas de arquivos, processos e permissões via **Linha de Comando (CLI)** em ambientes `Linux` (Debian/Ubuntu), automação de tarefas com scripts em **`Bash`**, configuração de servidores web e proxies reversos com **`Nginx`**, e pipelines de CI/CD via **`GitHub Actions`**.
+* **Cybersecurity & Low-level:** Autenticação e autorização seguras via **`JWT`** e fluxos de integração social (**`Google OAuth`**), hashing e segurança de senhas via **`BCrypt`** e **`Argon2`**, mentalidade *Security-by-Design* e hardening de sistemas Linux. Lógica estruturada em baixo nível com `C/C++`.
+* **Gestão de Projetos:** Organização de fluxos de desenvolvimento de software e agilidade utilizando ferramentas de produtividade como **`Jira`** e **`GitHub Projects`**.
 
 ---
 
@@ -103,18 +110,18 @@ $ cat profile.json
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarioAlex1&theme=dracula&hide_border=true" height="170" alt="Streak" />
 </p>
 
-### 🎮 Contribution Pac-man Game
+### 🎮 Contribution Snake Game
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarioAlex1/MarioAlex1/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarioAlex1/MarioAlex1/output/pacman-contribution-graph.svg" />
-    <img alt="GitHub Pacman Animation" src="https://raw.githubusercontent.com/MarioAlex1/MarioAlex1/output/pacman-contribution-graph.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarioAlex1/MarioAlex1/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarioAlex1/MarioAlex1/output/github-snake.svg" />
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/MarioAlex1/MarioAlex1/output/github-snake.svg" />
   </picture>
 </p>
 
 ---
 
 <div align="center">
-  <code>Last system update: 2026-06-19 11:27:15 (UTC -3)</code>
+  <code>Last system update: 2026-06-19 11:38:16 (UTC -3)</code>
 </div>

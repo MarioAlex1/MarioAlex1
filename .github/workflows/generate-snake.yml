@@ -1,4 +1,4 @@
-name: Generate Pacman Game
+name: Generate Snake Game
 
 on:
   schedule:
@@ -14,12 +14,17 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Pacman Contribution Graph
-        uses: abozanona/pacman-contribution-graph@main
+      - name: Generate Github Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push Pacman SVG to Output Branch
+      - name: Push Snake SVG to Output Branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
