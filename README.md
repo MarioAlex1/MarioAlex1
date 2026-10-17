@@ -2,6 +2,12 @@
   <h1><code>0x4D4152494F</code> (Mário Alex)</h1>
   <p>🚀 <i>Backend Developer & Offensive Security Enthusiast</i></p>
 
+
+  <p align="center">
+    <a href="https://portfolio-mrlx.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    &nbsp;
   <p align="center">
     <a href="https://www.linkedin.com/in/m%C3%A1rio-alex-7402732bb" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
